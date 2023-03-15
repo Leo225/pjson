@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"leetcode/pjson"
+	"pjson/pjson"
 	"regexp"
 )
 
